@@ -12,6 +12,6 @@ This is an implementation of Lima-Mendez *et al.* (DOI: 10.1093/molbev/msn023) m
 
 If everithing in PATH and executable:
 
-   LMCLUST phages_genomes.fasta
+  < LMCLUST phages_genomes.fasta >
 
 Otherwise, add paths inside the LMCLUST script
